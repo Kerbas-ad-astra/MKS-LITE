@@ -1,3 +1,13 @@
+0.0.6 - 2015.10.16
+------------------
+USI Core updates (containers, reactors, etc.)
+Added proper version file
+
+0.0.4 - 2015.10.04
+-------------------
+Dependency updates
+Sci Lab is now a very low efficiency ISRU for fuel
+
 0.0.3 - 2015.10.04
 -------------------
 Thanks NyankoSensei for an AntennaRange config and some node tweaks to reduce jumpiness
