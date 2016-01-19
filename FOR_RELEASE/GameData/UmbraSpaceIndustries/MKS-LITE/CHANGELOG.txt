@@ -1,3 +1,7 @@
+0.2.1 - 2016.01.19
+------------------
+Updated archive to include missing files
+
 0.2.0 - 2016.01.18
 ------------------
 There has been a major cleanup of the logistics logic.  Older mechanics have been consolidated or replaced with Scavanging, Power Distribution, Resource Distribution, and Distributed Warehouses.  See the forum thread for details.
