@@ -1,3 +1,29 @@
+0.2.0 - 2016.01.18
+------------------
+There has been a major cleanup of the logistics logic.  Older mechanics have been consolidated or replaced with Scavanging, Power Distribution, Resource Distribution, and Distributed Warehouses.  See the forum thread for details.
+All logistics logic has been moved over to USITools so it can be shared with some of the other non-core mods.
+MKS-Lite will not be shown if UKS is installed.
+The shared Kolonization DLL and associated configs has been moved to make sharing it easier
+When Extraplanetary Launchpads is present, RocketParts are replaced by a combination of SpecializedParts and MaterialKits in the resource chain.
+When USI-LS is used, recyclers and habitation rules are in effect.  Supply consumption is also drastically increased.  Penalties for EVA loss and starvation have also been increased.  You can alter these by changing USI-LS.cfg in the Kolonization folder.
+Added RemoteTech config to the CommPack (Thanks sirreality!)
+Inflatables now set to no crew capacity when deflated.  You cannot deflate a module that contains Kerbals.
+Hab modules, Ag modules, and the Scout lander pod act as basic life support recyclers.
+Habs can be repaired via the perform maintenance option.  This requires MaterialKits.
+
+0.1.1 - 2015.11.13
+------------------
+Merged MKS-Lite Resources into CRP
+
+0.1.0 - 2015.11.10
+------------------
+Updated to KSP 1.0.5
+Updated parts to allow distinct part category from core UKS
+Thanks NyankoSensei for a negative cost fix on the supply packs!
+Bundled CRP
+Updated various dependencies
+Broke out separate category tabs for MKS-LITe vs UKS
+
 0.0.6 - 2015.10.16
 ------------------
 USI Core updates (containers, reactors, etc.)
