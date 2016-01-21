@@ -1,3 +1,9 @@
+0.2.2 - 2016.01.20
+------------------
+Adjusted TAC-LS Config for MKS-Lite (Feedback appreciated)
+Removed extra texture that was causing some issues with the liquid tanks (round, cylinder, and saddle)
+
+
 0.2.1 - 2016.01.19
 ------------------
 Updated archive to include missing files
