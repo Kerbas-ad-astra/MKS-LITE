@@ -1,3 +1,9 @@
+0.2.4 - 2016.02.02
+------------------
+Kolony Rewards are now exponential and look at the entire vessel's crew
+Broke EL config into two configs - parts vs. resources
+Increased funds reward for kolonization
+
 0.2.3 - 2016.02.01
 ------------------
 Synced dependency DLLs
