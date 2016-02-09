@@ -1,3 +1,21 @@
+0.3.0 - 2016.02.08
+------------------
+Updated the kolonization GUI to show percentages vs. raw numbers
+Increased the rate at which efficiency multipliers are gained
+Moved USI-LS config file so we can have separate configs for UKS vs MKS-Lite
+Consolidated UKS/MKS-Lite TAC-LS and Scrapping configs between MKS-Lite and UKS
+Added the mini radial tanks from UKS/MKS-Lite to Core
+Added Karborundum, XenonGas, ArgonGas to cylindrical kontainer tanks (thanks LouisB3!)
+Moved the original saddle and supply tanks to legacy
+Because MKS-Lite lacks a lot of habitat multiplier parts, when using USI-LS, hab is multiplied by 5x (same as USI-LS stand-alone) vs. 1x (for UKS)
+Hab wear is disabled by default in MKS-Lite
+The agriculture module now takes Mulch and Fertilizer, much like the USI-LS greenhouses and UKS (to keep the experience consistent)
+Bumped the Comm-Pack's science bonus to be more in line with the stock MPL (and UKS)
+The hab module no longer has a fertilizer converter (this has been moved), but now acts as a nice 75% recycler (so similar to the UKS Pioneer module, since MKS-Lite lacks larger modules to upgrade to).
+The smelter no longer converts ore to materialkits (this function has been moved).
+The workshop now converts ore into MaterialKits (these are used by both MKS-Lite and EL).
+The workshop now acts as an auto-maintenance facility if staffed by an engineer (similar to UKS).  In MKS-Lite this is mostly used for nuclear reactor refueling.
+
 0.2.5 - 2016.02.03
 ------------------
 Reset default life support options to 'grouchiness'
