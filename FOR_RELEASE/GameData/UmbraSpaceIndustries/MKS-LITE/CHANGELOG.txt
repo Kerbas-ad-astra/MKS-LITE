@@ -1,3 +1,13 @@
+0.3.1 - 2016.02.13
+------------------
+Fixed texture reference in cylindrical tanks (Thanks LouisB3!)
+Added a surface attach option for all reactors
+Adjusted mass and crash tolerance of all containers for consistency
+Increased LqdHydrogen storage to be more in line with stock tank mass ratios
+Fixed missing radial tank textures
+Added dirt drills, landing wheels, landing stabilizers, the light globe, inflation tank, and skycrane to Kolonization for sharing between MKS-Lite and UKS.
+Fixed the ball hub's KIS settings
+
 0.3.0 - 2016.02.08
 ------------------
 Updated the kolonization GUI to show percentages vs. raw numbers
