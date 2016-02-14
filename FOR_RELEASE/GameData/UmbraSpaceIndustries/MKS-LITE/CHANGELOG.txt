@@ -1,3 +1,7 @@
+0.3.2 - 2016.02.14
+-------------------
+Fixed the location of several models
+
 0.3.1 - 2016.02.13
 ------------------
 Fixed texture reference in cylindrical tanks (Thanks LouisB3!)
