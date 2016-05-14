@@ -1,3 +1,11 @@
+0.4.3 - 2016.05.14
+------------------
+Dependency Updates
+Small dirt drill moved to Advanced Construction 
+Adjusted living space parameter for the hab modules
+All parts no longer have duplicate catalog entries, and are only available in the kolonization category.
+Updated TAC-LS patch from speedwaystar
+
 0.4.2.1 - 2016.04.30
 --------------------
 KSP 1.1.2 compatibility
